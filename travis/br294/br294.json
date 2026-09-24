@@ -1,0 +1,10 @@
+[
+	{
+		"description": "Issue #294: leading and consecutive %+ tokens in preprocessor",
+		"format": "bin",
+		"source": "br294.asm",
+		"target": [
+			{ "output": "br294.bin" }
+		]
+	}
+]
